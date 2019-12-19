@@ -4,6 +4,6 @@
  to improve my Web development skills.<br>
  This App is open source and free to use/share.<br>
  <strong>Functionality:</strong> Adding new Items and crossing them off or deleting them.<br>
- <h3>Demo: www.t1m0r.github.io/Todo-App/</h3>
+ <h3>Demo: https://t1m0r.github.io/Todo-App/</h3>
  
  Screenshot of the App : ![Image of the App, currently unavailable](Screenshots/todoDel.PNG)
